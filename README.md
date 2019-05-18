@@ -1,4 +1,4 @@
-# Educación Ambiental Para La Concientización :cactus:
+# Educación Ambiental Para La Concientización 🌵
 Mi proyecto consiste en crear conciencia en la población
 
 ## Qué es lo que abarca
