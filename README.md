@@ -1,4 +1,4 @@
-![Foto de una planta(https://www.ecured.cu/images/thumb/c/c4/Cattleya_labiata_otro.jpg/260px-Cattleya_labiata_otro.jpg)]
+![Foto](https://www.ecured.cu/images/thumb/c/c4/Cattleya_labiata_otro.jpg/260px-Cattleya_labiata_otro.jpg)
 
 # Educación Ambiental Para La Concientización 🌵
 Mi proyecto consiste en crear conciencia en la población 🌵
