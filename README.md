@@ -1,5 +1,3 @@
-![Foto](https://www.ecured.cu/images/thumb/c/c4/Cattleya_labiata_otro.jpg/260px-Cattleya_labiata_otro.jpg)
-
 # Educación Ambiental Para La Concientización 🌵
 Mi proyecto consiste en crear conciencia en la población 🌵
 
@@ -14,9 +12,5 @@ Que la población en general tome conciencia de, especialmente:
 * Scratch
      * Para el desarrollo del juego
 
-### Costos
-Material | Costo | Tiempo
----------| ------|--------
-Laptop   | 12,000| 24 hrs
-Sensor   | 100   | 2 hrs
+
 
